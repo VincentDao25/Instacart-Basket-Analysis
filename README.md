@@ -6,7 +6,7 @@ This project focuses on analyzing Instacart's grocery basket data to uncover key
 ## Objectives
 The project aims to answer the following key questions for the Instacart stakeholders:
 
-#### - Busiest Days and Times: Identify the days of the week and hours of the day with the highest order volumes.
+ - Busiest Days and Times: Identify the days of the week and hours of the day with the highest order volumes.
 #### - Spending Patterns: Determine the times of day when customers spend the most money to inform product advertising strategies.
 #### - Product Popularity: Identify which product departments have the highest frequency of orders.
 #### - Customer Segmentation: Analyze customer ordering behaviors based on factors such as loyalty, region, age, and family status, to inform targeted marketing campaigns.
